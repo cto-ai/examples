@@ -1,10 +1,10 @@
 version: "1"
 services:
-  - name: feathers:0.1.0
+  - name: feathers:0.1.1
     sdk: "2"
     run: npm start
     public: false
     description: A feathers example
-    cname: ""
+    cname: "feathers.cto.ai"
     remote: true
     port: [ '8080:8080' ]
