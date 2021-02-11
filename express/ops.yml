@@ -1,10 +1,7 @@
 version: "1"
 services:
   - name: express:0.1.0
-    sdk: "2"
-    run: npm start
-    public: false
     description: An express example.
-    domain: ""
-    remote: true
+    run: npm start
     port: [ '8080:8080' ]
+    domain: ""
