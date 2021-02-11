@@ -5,6 +5,6 @@ services:
     run: npm start
     public: false
     description: A feathers example
-    cname: ""
+    domain: ""
     remote: true
     port: [ '8080:8080' ]

@@ -5,7 +5,7 @@ services:
     run: npm start
     public: false
     description: A bolt-js example.
-    cname: ""
+    domain: ""
     remote: true
     port: [ '8080:8080' ]
     env:
