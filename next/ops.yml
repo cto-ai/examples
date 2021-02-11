@@ -1,10 +1,7 @@
 version: "1"
 services:
   - name: fastify-next:0.1.22
-    sdk: "2"
-    run: npm start
-    public: false
     description: A fastify next.js example.
-    cname: ""
-    remote: true
+    run: npm start
     port: [ '8080:8080' ]
+    domain: ""
