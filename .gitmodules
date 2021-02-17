@@ -1,0 +1,15 @@
+[submodule "bolt-js"]
+	path = bolt-js
+	url = git@github.com:cto-ai/bolt-js.git
+[submodule "express"]
+	path = express
+	url = git@github.com:cto-ai/express.git
+[submodule "feathers"]
+	path = feathers
+	url = git@github.com:cto-ai/feathers.git
+[submodule "next"]
+	path = next
+	url = git@github.com:cto-ai/next.git
+[submodule "fastify"]
+	path = fastify
+	url = git@github.com:cto-ai/fastify.git
